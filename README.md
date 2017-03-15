@@ -15,16 +15,11 @@ Easy access to attendance, timetable, results, fees & examination schedule
 
  
  
+Some of the Screenshot
 
 
 
-
-
-
-
-
-
-
+check out here https://github.com/kibson/sms/commit/411b1caf8741cec09fa55d1d495827428c81f7ff
 
 
 
