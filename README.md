@@ -1,5 +1,9 @@
 Kibsonagency software for primary schools
 
+Its based of two types:
+    1: A java Based software
+    2: a C# based software
+
 Very easy to use. User-friendly software for teachers and administration department. It has simplified our tasks to a great extent and we would certainly recommend School management software for schools, which would like to make their school administrative tasks much easy & manageable.
 
 FEATURES
