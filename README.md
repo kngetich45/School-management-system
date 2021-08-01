@@ -1,4 +1,4 @@
-School management.
+School management System.
 
 Its based of two types:
     1: A java Based software
