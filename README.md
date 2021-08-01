@@ -1,4 +1,4 @@
-Kibsonagency software for primary schools
+School management.
 
 Its based of two types:
     1: A java Based software
